@@ -1,3 +1,3 @@
 ### atmcard
 ui
-! [atm CARD](screenshot/Capture 1.PNG)
+![atm CARD](screenshot/Capture 1.PNG)
