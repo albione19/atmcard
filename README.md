@@ -1,3 +1,2 @@
 ### atmcard
-ui
-![atm CARD](screenshot/Capture 1.PNG)
+ui![UI ROBOT](screenshot/Capture1.PNG)
